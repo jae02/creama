@@ -32,6 +32,16 @@ public class Cafe {
     @Column(name = "main_image_url", length = 1000)
     private String mainImageUrl;
 
+    // 신규 필드
+    @Column(length = 20)
+    private String phone;
+
+    @Column(name = "operating_hours", length = 200)
+    private String operatingHours;
+
+    @Column(name = "image_urls", columnDefinition = "TEXT")
+    private String imageUrls; // JSON 배열: ["url1","url2","url3"]
+
     @OneToMany(mappedBy = "cafe", cascade = CascadeType.ALL, orphanRemoval = true, fetch = FetchType.LAZY)
     @Builder.Default
     private List<SensoryData> sensoryDataList = new ArrayList<>();

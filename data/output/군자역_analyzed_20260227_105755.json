@@ -1,0 +1,1982 @@
+[
+  {
+    "kakao_id": "2053737523",
+    "name": "카페러슬",
+    "address": "서울 광진구 구의동 612-10",
+    "road_address": "서울 광진구 자양로37길 63",
+    "latitude": 37.54861120531696,
+    "longitude": 127.0855625529983,
+    "phone": "0503-7152-1913",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/2053737523",
+    "district": "군자역",
+    "distance_m": 77,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "2078095229",
+    "name": "데케드파크",
+    "address": "서울 광진구 구의동 612-6",
+    "road_address": "서울 광진구 자양로37길 55",
+    "latitude": 37.5487373047983,
+    "longitude": 127.085618147096,
+    "phone": "",
+    "category": "음식점 > 카페 > 테마카페 > 디저트카페",
+    "place_url": "http://place.map.kakao.com/2078095229",
+    "district": "군자역",
+    "distance_m": 78,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "422017243",
+    "name": "포그",
+    "address": "서울 광진구 구의동 79-27",
+    "road_address": "서울 광진구 자양로37길 4",
+    "latitude": 37.547849092326,
+    "longitude": 127.087837366409,
+    "phone": "0503-7151-4258",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/422017243",
+    "district": "군자역",
+    "distance_m": 140,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "44583034",
+    "name": "메가MGC커피 자양선화예술점",
+    "address": "서울 광진구 구의동 80-8",
+    "road_address": "서울 광진구 자양로 231",
+    "latitude": 37.5476031207779,
+    "longitude": 127.087835946169,
+    "phone": "02-2138-2132",
+    "category": "음식점 > 카페 > 커피전문점 > 메가MGC커피",
+    "place_url": "http://place.map.kakao.com/44583034",
+    "district": "군자역",
+    "distance_m": 154,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "816060503",
+    "name": "슬로우토크프레시",
+    "address": "서울 광진구 구의동 614-6",
+    "road_address": "서울 광진구 자양로39길 19",
+    "latitude": 37.549045343053756,
+    "longitude": 127.08820655199538,
+    "phone": "",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/816060503",
+    "district": "군자역",
+    "distance_m": 174,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1729104828",
+    "name": "이디야커피 구의자양로점",
+    "address": "서울 광진구 구의동 78-8",
+    "road_address": "서울 광진구 자양로 251",
+    "latitude": 37.54900668976432,
+    "longitude": 127.08928608704782,
+    "phone": "02-3437-7835",
+    "category": "음식점 > 카페 > 커피전문점 > 이디야커피",
+    "place_url": "http://place.map.kakao.com/1729104828",
+    "district": "군자역",
+    "distance_m": 263,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1617376603",
+    "name": "카페플로",
+    "address": "서울 광진구 구의동 76-15",
+    "road_address": "서울 광진구 천호대로130길 30",
+    "latitude": 37.5504724197887,
+    "longitude": 127.088346296,
+    "phone": "",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/1617376603",
+    "district": "군자역",
+    "distance_m": 286,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1676978314",
+    "name": "더벤티 구의사거리점",
+    "address": "서울 광진구 구의동 80-34",
+    "road_address": "서울 광진구 자양로 205",
+    "latitude": 37.5458017543331,
+    "longitude": 127.085751711716,
+    "phone": "070-4833-0103",
+    "category": "음식점 > 카페 > 커피전문점 > 더벤티",
+    "place_url": "http://place.map.kakao.com/1676978314",
+    "district": "군자역",
+    "distance_m": 294,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "287896369",
+    "name": "레스트인무드",
+    "address": "서울 광진구 구의동 64-1",
+    "road_address": "서울 광진구 천호대로134길 31",
+    "latitude": 37.5480422654316,
+    "longitude": 127.089755691136,
+    "phone": "02-455-3335",
+    "category": "음식점 > 카페 > 테마카페 > 디저트카페",
+    "place_url": "http://place.map.kakao.com/287896369",
+    "district": "군자역",
+    "distance_m": 299,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "516247687",
+    "name": "스테이어와일",
+    "address": "서울 광진구 구의동 66-73",
+    "road_address": "서울 광진구 광나루로37길 24",
+    "latitude": 37.545754895685505,
+    "longitude": 127.0882072011959,
+    "phone": "070-8870-6673",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/516247687",
+    "district": "군자역",
+    "distance_m": 334,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "365847216",
+    "name": "컴포즈커피 구의사거리점",
+    "address": "서울 광진구 구의동 68-34",
+    "road_address": "서울 광진구 자양로 202",
+    "latitude": 37.5453638067519,
+    "longitude": 127.085837210207,
+    "phone": "",
+    "category": "음식점 > 카페 > 커피전문점 > 컴포즈커피",
+    "place_url": "http://place.map.kakao.com/365847216",
+    "district": "군자역",
+    "distance_m": 340,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "26639935",
+    "name": "스타벅스 구의DT점",
+    "address": "서울 광진구 구의동 67-7",
+    "road_address": "서울 광진구 광나루로 519",
+    "latitude": 37.54530334013515,
+    "longitude": 127.0872029577983,
+    "phone": "1522-3232",
+    "category": "음식점 > 카페 > 커피전문점 > 스타벅스",
+    "place_url": "http://place.map.kakao.com/26639935",
+    "district": "군자역",
+    "distance_m": 350,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "94455789",
+    "name": "실란트로커피",
+    "address": "서울 광진구 구의동 75-26",
+    "road_address": "서울 광진구 천호대로132길 10",
+    "latitude": 37.55033995769429,
+    "longitude": 127.08956266985744,
+    "phone": "0507-1324-4277",
+    "category": "음식점 > 카페 > 커피전문점",
+    "place_url": "http://place.map.kakao.com/94455789",
+    "district": "군자역",
+    "distance_m": 352,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "2095235564",
+    "name": "팔각당카페",
+    "address": "서울 광진구 능동 18",
+    "road_address": "서울 광진구 능동로 216",
+    "latitude": 37.54987652312045,
+    "longitude": 127.08258776240939,
+    "phone": "",
+    "category": "가정,생활 > 유아 > 놀이시설 > 키즈카페",
+    "place_url": "http://place.map.kakao.com/2095235564",
+    "district": "군자역",
+    "distance_m": 374,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1990057783",
+    "name": "점핑몬스터 구의점",
+    "address": "서울 광진구 구의동 671",
+    "road_address": "서울 광진구 광나루로39길 11",
+    "latitude": 37.54551395367614,
+    "longitude": 127.08870820859613,
+    "phone": "0502-5550-7439",
+    "category": "가정,생활 > 유아 > 놀이시설 > 키즈카페",
+    "place_url": "http://place.map.kakao.com/1990057783",
+    "district": "군자역",
+    "distance_m": 379,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1525792857",
+    "name": "서울형키즈카페 시립팔각당점",
+    "address": "서울 광진구 능동 18",
+    "road_address": "서울 광진구 능동로 216",
+    "latitude": 37.549867596187184,
+    "longitude": 127.08246892942326,
+    "phone": "02-458-5583",
+    "category": "가정,생활 > 유아 > 놀이시설 > 키즈카페 > 서울형키즈카페",
+    "place_url": "http://place.map.kakao.com/1525792857",
+    "district": "군자역",
+    "distance_m": 383,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1498961879",
+    "name": "구이도씨",
+    "address": "서울 광진구 구의동 671",
+    "road_address": "서울 광진구 광나루로39길 11",
+    "latitude": 37.5455030872716,
+    "longitude": 127.088780617025,
+    "phone": "",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/1498961879",
+    "district": "군자역",
+    "distance_m": 384,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1303849247",
+    "name": "로아카롱",
+    "address": "서울 광진구 구의동 671",
+    "road_address": "서울 광진구 광나루로39길 11",
+    "latitude": 37.54557862973115,
+    "longitude": 127.08896854956066,
+    "phone": "",
+    "category": "음식점 > 카페 > 테마카페 > 디저트카페",
+    "place_url": "http://place.map.kakao.com/1303849247",
+    "district": "군자역",
+    "distance_m": 386,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "default",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1270633136",
+    "name": "로사벨라",
+    "address": "서울 광진구 구의동 71-13",
+    "road_address": "서울 광진구 천호대로134길 2",
+    "latitude": 37.5491641915777,
+    "longitude": 127.090695164505,
+    "phone": "02-6958-7137",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/1270633136",
+    "district": "군자역",
+    "distance_m": 388,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "default",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1108578514",
+    "name": "스타벅스 아차산역",
+    "address": "서울 광진구 구의동 75-19",
+    "road_address": "서울 광진구 천호대로 676",
+    "latitude": 37.5505901554071,
+    "longitude": 127.089930758669,
+    "phone": "1522-3232",
+    "category": "음식점 > 카페 > 커피전문점 > 스타벅스",
+    "place_url": "http://place.map.kakao.com/1108578514",
+    "district": "군자역",
+    "distance_m": 395,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1446182327",
+    "name": "와우탐험대 서울어린이대공원점",
+    "address": "서울 광진구 능동 259-1",
+    "road_address": "서울 광진구 능동로 216",
+    "latitude": 37.5514172339882,
+    "longitude": 127.083860330482,
+    "phone": "0507-1458-7375",
+    "category": "가정,생활 > 유아 > 놀이시설 > 키즈카페",
+    "place_url": "http://place.map.kakao.com/1446182327",
+    "district": "군자역",
+    "distance_m": 402,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "493523620",
+    "name": "늑커피 구의",
+    "address": "서울 광진구 구의동 66-62",
+    "road_address": "서울 광진구 광나루로 529",
+    "latitude": 37.5451474282648,
+    "longitude": 127.088466748276,
+    "phone": "0507-1354-1048",
+    "category": "음식점 > 카페 > 커피전문점",
+    "place_url": "http://place.map.kakao.com/493523620",
+    "district": "군자역",
+    "distance_m": 404,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "default",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1551592698",
+    "name": "컴포즈커피 어린이대공원후문점",
+    "address": "서울 광진구 구의동 76-1",
+    "road_address": "서울 광진구 천호대로 666",
+    "latitude": 37.55124114525073,
+    "longitude": 127.08931251756152,
+    "phone": "02-456-7700",
+    "category": "음식점 > 카페 > 커피전문점 > 컴포즈커피",
+    "place_url": "http://place.map.kakao.com/1551592698",
+    "district": "군자역",
+    "distance_m": 406,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1375491764",
+    "name": "카페비엔베니도",
+    "address": "서울 광진구 구의동 75-13",
+    "road_address": "서울 광진구 천호대로 674",
+    "latitude": 37.5508632101314,
+    "longitude": 127.089862055248,
+    "phone": "02-6083-5283",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/1375491764",
+    "district": "군자역",
+    "distance_m": 410,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "26572364",
+    "name": "산풀잎",
+    "address": "서울 광진구 능동 257-3",
+    "road_address": "서울 광진구 천호대로124길 28",
+    "latitude": 37.5521956224578,
+    "longitude": 127.087682899797,
+    "phone": "02-456-7199",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/26572364",
+    "district": "군자역",
+    "distance_m": 436,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "default",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1937796776",
+    "name": "만날로스터리카페",
+    "address": "서울 광진구 구의동 668",
+    "road_address": "서울 광진구 광나루로 545",
+    "latitude": 37.54516836796997,
+    "longitude": 127.08937543001478,
+    "phone": "010-8674-6866",
+    "category": "음식점 > 카페 > 커피전문점",
+    "place_url": "http://place.map.kakao.com/1937796776",
+    "district": "군자역",
+    "distance_m": 444,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "546467904",
+    "name": "느긋 베이커리카페",
+    "address": "서울 광진구 능동 257-5",
+    "road_address": "서울 광진구 천호대로124길 24",
+    "latitude": 37.552332447832725,
+    "longitude": 127.08785281301469,
+    "phone": "070-8817-0734",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/546467904",
+    "district": "군자역",
+    "distance_m": 454,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "21132867",
+    "name": "중앙커피숖",
+    "address": "서울 광진구 구의동 230-19",
+    "road_address": "서울 광진구 광나루로 532",
+    "latitude": 37.544669849192964,
+    "longitude": 127.08853294657015,
+    "phone": "",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/21132867",
+    "district": "군자역",
+    "distance_m": 455,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "default",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1136302019",
+    "name": "블레이크커피로스터스",
+    "address": "서울 광진구 능동 257-6",
+    "road_address": "서울 광진구 천호대로124길 20",
+    "latitude": 37.5522926268997,
+    "longitude": 127.088090420235,
+    "phone": "0502-5552-4930",
+    "category": "음식점 > 카페 > 커피전문점",
+    "place_url": "http://place.map.kakao.com/1136302019",
+    "district": "군자역",
+    "distance_m": 456,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "13057454",
+    "name": "탐앤탐스 아차산역점",
+    "address": "서울 광진구 구의동 54-3",
+    "road_address": "서울 광진구 천호대로 675",
+    "latitude": 37.55091851506781,
+    "longitude": 127.09059091374216,
+    "phone": "02-456-9890",
+    "category": "음식점 > 카페 > 커피전문점 > 탐앤탐스",
+    "place_url": "http://place.map.kakao.com/13057454",
+    "district": "군자역",
+    "distance_m": 463,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "684443347",
+    "name": "원즈커피",
+    "address": "서울 광진구 구의동 232-67",
+    "road_address": "서울 광진구 자양로32길 32",
+    "latitude": 37.54418820693504,
+    "longitude": 127.08679090151024,
+    "phone": "010-2579-0598",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/684443347",
+    "district": "군자역",
+    "distance_m": 468,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1660718425",
+    "name": "커피인더블랙",
+    "address": "서울 광진구 구의동 253-19",
+    "road_address": "서울 광진구 광나루로 486",
+    "latitude": 37.544956637499375,
+    "longitude": 127.08320470069485,
+    "phone": "02-446-0441",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/1660718425",
+    "district": "군자역",
+    "distance_m": 475,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "27292017",
+    "name": "공차 아차산역점",
+    "address": "서울 광진구 구의동 665",
+    "road_address": "서울 광진구 천호대로 671",
+    "latitude": 37.55128805575952,
+    "longitude": 127.09041934712475,
+    "phone": "02-6015-4516",
+    "category": "음식점 > 카페 > 공차",
+    "place_url": "http://place.map.kakao.com/27292017",
+    "district": "군자역",
+    "distance_m": 478,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "230182069",
+    "name": "커피를그리다",
+    "address": "서울 광진구 구의동 235-21",
+    "road_address": "서울 광진구 광나루로36길 20",
+    "latitude": 37.54407131291124,
+    "longitude": 127.0864694025988,
+    "phone": "070-8888-3733",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/230182069",
+    "district": "군자역",
+    "distance_m": 480,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "2070894945",
+    "name": "키킥서울 아차산점",
+    "address": "서울 광진구 능동 254-32",
+    "road_address": "서울 광진구 천호대로122길 22",
+    "latitude": 37.5526750813416,
+    "longitude": 127.087510312735,
+    "phone": "",
+    "category": "음식점 > 카페 > 테마카페 > 디저트카페",
+    "place_url": "http://place.map.kakao.com/2070894945",
+    "district": "군자역",
+    "distance_m": 484,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1080769436",
+    "name": "스윗봉봉",
+    "address": "서울 광진구 구의동 57-71",
+    "road_address": "서울 광진구 천호대로 689",
+    "latitude": 37.5499672368316,
+    "longitude": 127.09153129549695,
+    "phone": "070-4647-3104",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/1080769436",
+    "district": "군자역",
+    "distance_m": 485,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "default",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1303244108",
+    "name": "하삼동커피 아차산역점",
+    "address": "서울 광진구 구의동 665",
+    "road_address": "서울 광진구 천호대로 671",
+    "latitude": 37.551339325877,
+    "longitude": 127.090532576172,
+    "phone": "",
+    "category": "음식점 > 카페 > 커피전문점 > 하삼동커피",
+    "place_url": "http://place.map.kakao.com/1303244108",
+    "district": "군자역",
+    "distance_m": 489,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1309016436",
+    "name": "떳다방",
+    "address": "서울 광진구 구의동 235-22",
+    "road_address": "서울 광진구 광나루로36길 22",
+    "latitude": 37.5439740357322,
+    "longitude": 127.086427422533,
+    "phone": "",
+    "category": "음식점 > 카페 > 다방",
+    "place_url": "http://place.map.kakao.com/1309016436",
+    "district": "군자역",
+    "distance_m": 491,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "default",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1152491026",
+    "name": "어스맘카페",
+    "address": "서울 광진구 구의동 253-19",
+    "road_address": "서울 광진구 광나루로 486",
+    "latitude": 37.5447494030966,
+    "longitude": 127.083211259802,
+    "phone": "",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/1152491026",
+    "district": "군자역",
+    "distance_m": 493,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "default",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "137773098",
+    "name": "파오파오차",
+    "address": "서울 광진구 구의동 57-113",
+    "road_address": "서울 광진구 자양로 278",
+    "latitude": 37.5505547948874,
+    "longitude": 127.09139281992215,
+    "phone": "070-7743-8585",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/137773098",
+    "district": "군자역",
+    "distance_m": 501,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "18294669",
+    "name": "이디야커피 아차산역점",
+    "address": "서울 광진구 구의동 53-9",
+    "road_address": "서울 광진구 천호대로 663",
+    "latitude": 37.55175402622034,
+    "longitude": 127.09021733980133,
+    "phone": "02-3437-4009",
+    "category": "음식점 > 카페 > 커피전문점 > 이디야커피",
+    "place_url": "http://place.map.kakao.com/18294669",
+    "district": "군자역",
+    "distance_m": 502,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1547657082",
+    "name": "옹드",
+    "address": "서울 광진구 구의동 57-80",
+    "road_address": "서울 광진구 천호대로 693",
+    "latitude": 37.5497786814596,
+    "longitude": 127.091849057869,
+    "phone": "",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/1547657082",
+    "district": "군자역",
+    "distance_m": 504,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "default",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "1432538464",
+    "name": "후문카페",
+    "address": "서울 광진구 능동 256-13",
+    "road_address": "서울 광진구 능동로36길 183",
+    "latitude": 37.5526382711717,
+    "longitude": 127.088543503362,
+    "phone": "02-455-2789",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/1432538464",
+    "district": "군자역",
+    "distance_m": 506,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "948664574",
+    "name": "카페우리",
+    "address": "서울 광진구 구의동 668",
+    "road_address": "서울 광진구 광나루로 545",
+    "latitude": 37.54507117555552,
+    "longitude": 127.09040731161227,
+    "phone": "",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/948664574",
+    "district": "군자역",
+    "distance_m": 511,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  },
+  {
+    "kakao_id": "659940514",
+    "name": "커피 공급소",
+    "address": "서울 광진구 구의동 254-1",
+    "road_address": "서울 광진구 자양로 183",
+    "latitude": 37.54398522469904,
+    "longitude": 127.08466333345663,
+    "phone": "070-4035-0009",
+    "category": "음식점 > 카페 > 커피전문점",
+    "place_url": "http://place.map.kakao.com/659940514",
+    "district": "군자역",
+    "distance_m": 513,
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-27 10:57:55"
+  }
+]

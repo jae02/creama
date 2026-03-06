@@ -1,0 +1,2143 @@
+[
+  {
+    "kakao_id": "84268936",
+    "name": "가배도 신논현점",
+    "address": "서울 강남구 역삼동 601-12",
+    "road_address": "서울 강남구 강남대로110길 13",
+    "latitude": 37.504014524333215,
+    "longitude": 127.02594414795091,
+    "phone": "02-554-4542",
+    "category": "음식점 > 카페 > 다방",
+    "place_url": "http://place.map.kakao.com/84268936",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 70,
+      "crowdedness": 70,
+      "music_genre": "재즈",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블",
+        "소파"
+      ],
+      "vibe_keywords": [
+        "엔틱",
+        "일본 감성",
+        "차분한"
+      ],
+      "recommended_for": [
+        "카공",
+        "데이트",
+        "디저트",
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "밀크티",
+        "티라미수",
+        "일본 감성",
+        "엔틱",
+        "카공"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:15:16"
+  },
+  {
+    "kakao_id": "10159026",
+    "name": "고센인코퍼레이티드",
+    "address": "서울 강남구 청담동 88-23",
+    "road_address": "서울 강남구 선릉로158길 18",
+    "latitude": 37.5251945000821,
+    "longitude": 127.041459017307,
+    "phone": "",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/10159026",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 40,
+      "comfort": 70,
+      "crowdedness": 70,
+      "music_genre": "Lounge",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": true,
+      "seat_types": [
+        "테이블",
+        "소파"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "세련된",
+        "고급스러운",
+        "심야"
+      ],
+      "recommended_for": [
+        "카페투어",
+        "데이트",
+        "모임",
+        "심야"
+      ],
+      "keywords": [
+        "커피",
+        "디저트",
+        "주류",
+        "와인",
+        "심야"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:15:45"
+  },
+  {
+    "kakao_id": "7948829",
+    "name": "세시셀라 도산공원점",
+    "address": "서울 강남구 신사동 651-4",
+    "road_address": "서울 강남구 도산대로45길 10-4",
+    "latitude": 37.52314916281088,
+    "longitude": 127.03616365669063,
+    "phone": "02-3448-7100",
+    "category": "음식점 > 카페 > 테마카페 > 디저트카페",
+    "place_url": "http://place.map.kakao.com/7948829",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 70,
+      "lighting": 60,
+      "comfort": 70,
+      "crowdedness": 80,
+      "music_genre": "재즈",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": true,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "유럽풍",
+        "레트로",
+        "감성적인"
+      ],
+      "recommended_for": [
+        "카페투어",
+        "데이트",
+        "디저트"
+      ],
+      "keywords": [
+        "당근케이크",
+        "디저트",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:16:13"
+  },
+  {
+    "kakao_id": "35026031",
+    "name": "스타벅스 강남R점",
+    "address": "서울 강남구 역삼동 825",
+    "road_address": "서울 강남구 강남대로 390",
+    "latitude": 37.4976744709989,
+    "longitude": 127.028443419181,
+    "phone": "1522-3232",
+    "category": "음식점 > 카페 > 커피전문점 > 스타벅스",
+    "place_url": "http://place.map.kakao.com/35026031",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 75,
+      "lighting": 70,
+      "comfort": 65,
+      "crowdedness": 85,
+      "music_genre": "Lounge Music",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블",
+        "라운지 좌석",
+        "바 좌석"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "활기찬",
+        "프리미엄"
+      ],
+      "recommended_for": [
+        "카페투어",
+        "노트북 작업",
+        "친구와 만남",
+        "공부"
+      ],
+      "keywords": [
+        "커피",
+        "리저브",
+        "대형카페",
+        "강남역"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:16:39"
+  },
+  {
+    "kakao_id": "27196653",
+    "name": "파시0914",
+    "address": "서울 강남구 신사동 631-35",
+    "road_address": "서울 강남구 도산대로45길 15",
+    "latitude": 37.5232359838849,
+    "longitude": 127.035086751653,
+    "phone": "02-2056-0917",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/27196653",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 50,
+      "comfort": 50,
+      "crowdedness": 50,
+      "music_genre": "Lounge",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": true,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "세련된",
+        "고급스러운"
+      ],
+      "recommended_for": [
+        "카페투어",
+        "브런치",
+        "데이트",
+        "친구모임"
+      ],
+      "keywords": [
+        "커피",
+        "브런치",
+        "이탈리안",
+        "레스토랑",
+        "도산공원",
+        "편집샵"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:17:04"
+  },
+  {
+    "kakao_id": "26852745",
+    "name": "네버랜드",
+    "address": "서울 강남구 논현동 180-2",
+    "road_address": "서울 강남구 봉은사로7길 32",
+    "latitude": 37.5076326644887,
+    "longitude": 127.027261897244,
+    "phone": "02-547-7731",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/26852745",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 70,
+      "lighting": 50,
+      "comfort": 60,
+      "crowdedness": 70,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블",
+        "소파"
+      ],
+      "vibe_keywords": [
+        "애견동반",
+        "키즈친화",
+        "만화",
+        "아늑한",
+        "캐주얼"
+      ],
+      "recommended_for": [
+        "반려동물과 함께",
+        "아이와 함께",
+        "혼자",
+        "장시간 이용",
+        "친구와"
+      ],
+      "keywords": [
+        "커피",
+        "애견동반",
+        "키즈카페",
+        "만화카페",
+        "24시간",
+        "분식",
+        "디저트",
+        "배달"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:17:31"
+  },
+  {
+    "kakao_id": "22549791",
+    "name": "마일스톤커피",
+    "address": "서울 강남구 신사동 554-4",
+    "road_address": "서울 강남구 논현로159길 49",
+    "latitude": 37.5218511454281,
+    "longitude": 127.024330407303,
+    "phone": "070-4219-1195",
+    "category": "음식점 > 카페 > 커피전문점",
+    "place_url": "http://place.map.kakao.com/22549791",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 80,
+      "lighting": 50,
+      "comfort": 60,
+      "crowdedness": 80,
+      "music_genre": "재즈",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "감성",
+        "고급스러운"
+      ],
+      "recommended_for": [
+        "카페투어",
+        "반려동물 동반",
+        "데이트",
+        "디저트"
+      ],
+      "keywords": [
+        "커피",
+        "아인슈페너",
+        "티라미수",
+        "가로수길",
+        "애견동반",
+        "로스터리"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:18:03"
+  },
+  {
+    "kakao_id": "1466542951",
+    "name": "셀렉티드닉스",
+    "address": "서울 강남구 역삼동 827-13",
+    "road_address": "서울 강남구 테헤란로4길 37",
+    "latitude": 37.4962223486255,
+    "longitude": 127.030837985875,
+    "phone": "070-5176-7947",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/1466542951",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 65,
+      "lighting": 75,
+      "comfort": 70,
+      "crowdedness": 75,
+      "music_genre": "Lo-fi",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블",
+        "소파",
+        "야외석"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "개방감 있는",
+        "트렌디한",
+        "루프탑"
+      ],
+      "recommended_for": [
+        "카페투어",
+        "카공",
+        "모임",
+        "데이트",
+        "야경"
+      ],
+      "keywords": [
+        "커피",
+        "티라미수",
+        "대형카페",
+        "루프탑",
+        "전시",
+        "강남역"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:18:32"
+  },
+  {
+    "kakao_id": "22400767",
+    "name": "10꼬르소꼬모서울카페",
+    "address": "서울 강남구 청담동 79",
+    "road_address": "서울 강남구 압구정로 416",
+    "latitude": 37.5267655229983,
+    "longitude": 127.04237397719,
+    "phone": "",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/22400767",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 60,
+      "lighting": 50,
+      "comfort": 70,
+      "crowdedness": 70,
+      "music_genre": "Lounge",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": true,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "고급스러운",
+        "세련된"
+      ],
+      "recommended_for": [
+        "카페투어",
+        "데이트",
+        "친구와",
+        "디저트"
+      ],
+      "keywords": [
+        "커피",
+        "디저트",
+        "청담동",
+        "압구정",
+        "발렛파킹"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:19:01"
+  },
+  {
+    "kakao_id": "522639283",
+    "name": "코드이스케이프 가로수길점",
+    "address": "서울 강남구 신사동 541-15",
+    "road_address": "서울 강남구 가로수길 14",
+    "latitude": 37.518822164570295,
+    "longitude": 127.02338375716188,
+    "phone": "02-541-7544",
+    "category": "음식점 > 카페 > 테마카페",
+    "place_url": "http://place.map.kakao.com/522639283",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 50,
+      "comfort": 50,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": false,
+      "has_parking": true,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "테마가있는",
+        "엔터테인먼트"
+      ],
+      "recommended_for": [
+        "방탈출",
+        "친구와"
+      ],
+      "keywords": [
+        "방탈출",
+        "가로수길",
+        "엔터테인먼트"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:19:24"
+  },
+  {
+    "kakao_id": "1455370465",
+    "name": "북카페레벤",
+    "address": "서울 강남구 논현동 123",
+    "road_address": "서울 강남구 학동로 116",
+    "latitude": 37.5115834447788,
+    "longitude": 127.023662004286,
+    "phone": "02-2278-6607",
+    "category": "음식점 > 카페 > 테마카페 > 북카페",
+    "place_url": "http://place.map.kakao.com/1455370465",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 30,
+      "lighting": 60,
+      "comfort": 70,
+      "crowdedness": 40,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "차분한",
+        "지적인",
+        "평화로운"
+      ],
+      "recommended_for": [
+        "독서",
+        "노트북 작업",
+        "조용한 휴식"
+      ],
+      "keywords": [
+        "북카페",
+        "책",
+        "조용한",
+        "커피",
+        "논현",
+        "성바오로서원",
+        "천주교"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:19:50"
+  },
+  {
+    "kakao_id": "19834035",
+    "name": "소나",
+    "address": "서울 강남구 신사동 520-1",
+    "road_address": "서울 강남구 강남대로162길 40",
+    "latitude": 37.52076776256566,
+    "longitude": 127.02164003918188,
+    "phone": "02-515-3246",
+    "category": "음식점 > 카페 > 테마카페 > 디저트카페",
+    "place_url": "http://place.map.kakao.com/19834035",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 40,
+      "lighting": 60,
+      "comfort": 70,
+      "crowdedness": 70,
+      "music_genre": "재즈",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블",
+        "소파"
+      ],
+      "vibe_keywords": [
+        "고급스러운",
+        "세련된",
+        "예술적인",
+        "데이트하기 좋은",
+        "전문적인"
+      ],
+      "recommended_for": [
+        "데이트",
+        "디저트 러버",
+        "미식 경험",
+        "사진 찍기 좋은",
+        "카페투어"
+      ],
+      "keywords": [
+        "디저트",
+        "플레이팅 디저트",
+        "크렘 브륄레",
+        "가로수길",
+        "신사동",
+        "커피",
+        "블루리본"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:20:15"
+  },
+  {
+    "kakao_id": "27579564",
+    "name": "이디야커피랩",
+    "address": "서울 강남구 논현동 221-17",
+    "road_address": "서울 강남구 논현로 636",
+    "latitude": 37.51047297481296,
+    "longitude": 127.032981540064,
+    "phone": "02-545-6467",
+    "category": "음식점 > 카페 > 커피전문점 > 이디야커피",
+    "place_url": "http://place.map.kakao.com/27579564",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 65,
+      "lighting": 75,
+      "comfort": 85,
+      "crowdedness": 70,
+      "music_genre": "인스트루멘탈",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": true,
+      "seat_types": [
+        "테이블",
+        "소파",
+        "바"
+      ],
+      "vibe_keywords": [
+        "고급스러운",
+        "모던한",
+        "전문적인",
+        "넓은",
+        "쾌적한"
+      ],
+      "recommended_for": [
+        "카페투어",
+        "친구와 만남",
+        "비즈니스 미팅",
+        "작업/공부",
+        "데이트"
+      ],
+      "keywords": [
+        "커피",
+        "베이커리",
+        "대형카페",
+        "프리미엄",
+        "강남",
+        "본사"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:20:37"
+  },
+  {
+    "kakao_id": "27413263",
+    "name": "비트포비아 강남던전점",
+    "address": "서울 강남구 역삼동 824-25",
+    "road_address": "서울 강남구 강남대로84길 33",
+    "latitude": 37.497583697643,
+    "longitude": 127.031112213726,
+    "phone": "02-555-4360",
+    "category": "음식점 > 카페 > 테마카페",
+    "place_url": "http://place.map.kakao.com/27413263",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 70,
+      "lighting": 50,
+      "comfort": 50,
+      "crowdedness": 70,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블",
+        "의자"
+      ],
+      "vibe_keywords": [
+        "활기찬",
+        "이색적인",
+        "테마"
+      ],
+      "recommended_for": [
+        "데이트",
+        "친구모임",
+        "이색체험",
+        "가족모임"
+      ],
+      "keywords": [
+        "방탈출",
+        "강남역",
+        "이색데이트"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:21:04"
+  },
+  {
+    "kakao_id": "1016477143",
+    "name": "기욤 청담점",
+    "address": "서울 강남구 청담동 88-37",
+    "road_address": "서울 강남구 선릉로152길 17",
+    "latitude": 37.524317115354286,
+    "longitude": 127.04090986917596,
+    "phone": "02-512-6701",
+    "category": "음식점 > 카페 > 테마카페 > 디저트카페",
+    "place_url": "http://place.map.kakao.com/1016477143",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 70,
+      "lighting": 60,
+      "comfort": 70,
+      "crowdedness": 80,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "프렌치",
+        "럭셔리",
+        "로맨틱",
+        "핑크",
+        "인스타감성"
+      ],
+      "recommended_for": [
+        "카페투어",
+        "데이트",
+        "디저트",
+        "사진찍기좋은"
+      ],
+      "keywords": [
+        "커피",
+        "디저트",
+        "베이커리",
+        "에끌레어",
+        "빵",
+        "프렌치"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:21:31"
+  },
+  {
+    "kakao_id": "25736467",
+    "name": "할리스 강남역점",
+    "address": "서울 강남구 역삼동 820-11",
+    "road_address": "서울 강남구 강남대로 402",
+    "latitude": 37.49871619356776,
+    "longitude": 127.02777433522404,
+    "phone": "02-555-0890",
+    "category": "음식점 > 카페 > 커피전문점 > 할리스",
+    "place_url": "http://place.map.kakao.com/25736467",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 65,
+      "lighting": 50,
+      "comfort": 50,
+      "crowdedness": 75,
+      "music_genre": "이지리스닝",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "넓은",
+        "활기찬"
+      ],
+      "recommended_for": [
+        "카공",
+        "업무",
+        "데이트",
+        "모임"
+      ],
+      "keywords": [
+        "커피",
+        "대형카페",
+        "강남역",
+        "공부",
+        "콘센트"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:21:55"
+  },
+  {
+    "kakao_id": "18558469",
+    "name": "커피휘엘",
+    "address": "서울 강남구 논현동 4-21",
+    "road_address": "서울 강남구 논현로149길 62",
+    "latitude": 37.5169750672937,
+    "longitude": 127.023586788209,
+    "phone": "02-6215-8138",
+    "category": "음식점 > 카페 > 커피전문점",
+    "place_url": "http://place.map.kakao.com/18558469",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 35,
+      "lighting": 50,
+      "comfort": 50,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": true,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "깔끔한",
+        "세련된",
+        "조용한"
+      ],
+      "recommended_for": [
+        "카페투어",
+        "커피 애호가",
+        "데이트"
+      ],
+      "keywords": [
+        "커피",
+        "로스터리",
+        "스페셜티",
+        "디저트",
+        "블루리본",
+        "브루잉"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:22:21"
+  },
+  {
+    "kakao_id": "27347412",
+    "name": "크라프트카페",
+    "address": "서울 강남구 역삼동 618-4",
+    "road_address": "서울 강남구 강남대로102길 38-5",
+    "latitude": 37.5033363584559,
+    "longitude": 127.028585804312,
+    "phone": "070-4667-2436",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/27347412",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 50,
+      "comfort": 70,
+      "crowdedness": 70,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블",
+        "단체석"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "아늑한",
+        "분위기 좋은",
+        "대형"
+      ],
+      "recommended_for": [
+        "카페투어",
+        "데이트",
+        "회의/스터디"
+      ],
+      "keywords": [
+        "커피",
+        "디저트",
+        "대형카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:22:49"
+  },
+  {
+    "kakao_id": "179244712",
+    "name": "꽁티드툴레아 도산점",
+    "address": "서울 강남구 신사동 646-21",
+    "road_address": "서울 강남구 도산대로49길 39",
+    "latitude": 37.5255636248427,
+    "longitude": 127.036888842603,
+    "phone": "070-8846-8490",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/179244712",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 60,
+      "lighting": 60,
+      "comfort": 70,
+      "crowdedness": 70,
+      "music_genre": "Lounge",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": true,
+      "seat_types": [
+        "테이블",
+        "테라스"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "아늑한",
+        "트렌디한",
+        "활기찬"
+      ],
+      "recommended_for": [
+        "카페투어",
+        "브런치",
+        "데이트",
+        "친구모임"
+      ],
+      "keywords": [
+        "커피",
+        "브런치",
+        "디저트",
+        "테라스",
+        "오믈렛",
+        "와인"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:23:13"
+  },
+  {
+    "kakao_id": "1165137776",
+    "name": "투썸플레이스 강남구청역점",
+    "address": "서울 강남구 논현동 118-15",
+    "road_address": "서울 강남구 학동로 335",
+    "latitude": 37.51697437233935,
+    "longitude": 127.03964688796871,
+    "phone": "02-511-0456",
+    "category": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+    "place_url": "http://place.map.kakao.com/1165137776",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 50,
+      "comfort": 50,
+      "crowdedness": 70,
+      "music_genre": "이지리스닝",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던"
+      ],
+      "recommended_for": [
+        "만남",
+        "일상",
+        "업무"
+      ],
+      "keywords": [
+        "커피",
+        "케이크"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:23:50"
+  },
+  {
+    "kakao_id": "1850394240",
+    "name": "크리에잇쿠키 역삼점",
+    "address": "서울 강남구 역삼동 641-1",
+    "road_address": "서울 강남구 테헤란로25길 36",
+    "latitude": 37.50292193725799,
+    "longitude": 127.03511569524726,
+    "phone": "02-558-8890",
+    "category": "음식점 > 카페 > 테마카페 > 디저트카페",
+    "place_url": "http://place.map.kakao.com/1850394240",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 45,
+      "lighting": 65,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "아늑한",
+        "예쁜"
+      ],
+      "recommended_for": [
+        "데이트",
+        "디저트",
+        "친구와",
+        "카페투어"
+      ],
+      "keywords": [
+        "쿠키",
+        "디저트",
+        "커피",
+        "답례품",
+        "역삼"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:24:15"
+  },
+  {
+    "kakao_id": "815154481",
+    "name": "플라워베이커리 신사점",
+    "address": "서울 강남구 신사동 517-5",
+    "road_address": "서울 강남구 압구정로2길 45",
+    "latitude": 37.518921704388,
+    "longitude": 127.021103325933,
+    "phone": "02-515-1345",
+    "category": "음식점 > 카페 > 테마카페 > 디저트카페",
+    "place_url": "http://place.map.kakao.com/815154481",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 30,
+      "lighting": 60,
+      "comfort": 70,
+      "crowdedness": 40,
+      "music_genre": "Ambient",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "편안한",
+        "작업하기 좋은"
+      ],
+      "recommended_for": [
+        "카페투어",
+        "작업/공부",
+        "디저트",
+        "친구와"
+      ],
+      "keywords": [
+        "커피",
+        "베이커리",
+        "빵",
+        "디저트",
+        "조용한",
+        "작업",
+        "가로수길",
+        "신사"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:25:43"
+  },
+  {
+    "kakao_id": "277520995",
+    "name": "데바스테이트 청담",
+    "address": "서울 강남구 청담동 80-17",
+    "road_address": "서울 강남구 선릉로162길 51",
+    "latitude": 37.52613753145513,
+    "longitude": 127.04479684639043,
+    "phone": "070-7717-6100",
+    "category": "음식점 > 카페 > 커피전문점",
+    "place_url": "http://place.map.kakao.com/277520995",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:26:57"
+  },
+  {
+    "kakao_id": "1992321980",
+    "name": "카페봄",
+    "address": "서울 강남구 역삼동 700-31",
+    "road_address": "서울 강남구 테헤란로43길 19",
+    "latitude": 37.50460394942532,
+    "longitude": 127.04371182149568,
+    "phone": "02-554-0613",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/1992321980",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 70,
+      "lighting": 60,
+      "comfort": 70,
+      "crowdedness": 80,
+      "music_genre": "K-POP",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "K-POP 테마",
+        "이벤트",
+        "활기찬"
+      ],
+      "recommended_for": [
+        "K-POP 팬",
+        "아이돌 생일 이벤트 참여",
+        "친구모임"
+      ],
+      "keywords": [
+        "커피",
+        "K-POP",
+        "아이돌",
+        "생일카페",
+        "이벤트"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:28:28"
+  },
+  {
+    "kakao_id": "1802171219",
+    "name": "피그커피",
+    "address": "서울 강남구 역삼동 674-1",
+    "road_address": "서울 강남구 언주로97길 15",
+    "latitude": 37.5051350280607,
+    "longitude": 127.040081705916,
+    "phone": "0507-1320-3349",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/1802171219",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:29:42"
+  },
+  {
+    "kakao_id": "982831030",
+    "name": "넥스트에디션 강남5호점",
+    "address": "서울 강남구 역삼동 818-13",
+    "road_address": "서울 강남구 강남대로94길 11",
+    "latitude": 37.499545006601,
+    "longitude": 127.028249615716,
+    "phone": "02-558-9818",
+    "category": "음식점 > 카페 > 테마카페",
+    "place_url": "http://place.map.kakao.com/982831030",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:30:56"
+  },
+  {
+    "kakao_id": "20494135",
+    "name": "스타벅스 강남대로점",
+    "address": "서울 강남구 역삼동 809-10",
+    "road_address": "서울 강남구 강남대로 456",
+    "latitude": 37.5032649716005,
+    "longitude": 127.025559367137,
+    "phone": "1522-3232",
+    "category": "음식점 > 카페 > 커피전문점 > 스타벅스",
+    "place_url": "http://place.map.kakao.com/20494135",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:32:10"
+  },
+  {
+    "kakao_id": "23278986",
+    "name": "브라이언스커피",
+    "address": "서울 강남구 도곡동 457",
+    "road_address": "서울 강남구 논현로26길 46",
+    "latitude": 37.4838763981292,
+    "longitude": 127.045791451068,
+    "phone": "02-529-6399",
+    "category": "음식점 > 카페 > 테마카페 > 디저트카페",
+    "place_url": "http://place.map.kakao.com/23278986",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:33:24"
+  },
+  {
+    "kakao_id": "1045674602",
+    "name": "껠끄쇼즈",
+    "address": "서울 강남구 대치동 1023-19",
+    "road_address": "서울 강남구 도곡로70길 5",
+    "latitude": 37.4969939760406,
+    "longitude": 127.056623962964,
+    "phone": "",
+    "category": "음식점 > 카페 > 테마카페 > 디저트카페",
+    "place_url": "http://place.map.kakao.com/1045674602",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:34:38"
+  },
+  {
+    "kakao_id": "1091312120",
+    "name": "헤이미",
+    "address": "서울 강남구 신사동 608-17",
+    "road_address": "서울 강남구 논현로172길 21",
+    "latitude": 37.52556545703734,
+    "longitude": 127.03046316191093,
+    "phone": "070-8883-2016",
+    "category": "음식점 > 카페 > 테마카페 > 디저트카페",
+    "place_url": "http://place.map.kakao.com/1091312120",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:35:52"
+  },
+  {
+    "kakao_id": "10104174",
+    "name": "프레스카29",
+    "address": "서울 강남구 도곡동 517-11",
+    "road_address": "서울 강남구 논현로28길 29",
+    "latitude": 37.48389854038591,
+    "longitude": 127.04443468051788,
+    "phone": "02-575-2558",
+    "category": "음식점 > 카페 > 커피전문점",
+    "place_url": "http://place.map.kakao.com/10104174",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:37:05"
+  },
+  {
+    "kakao_id": "534862116",
+    "name": "뷰376카페",
+    "address": "서울 강남구 압구정동 376-1",
+    "road_address": "",
+    "latitude": 37.531416532105254,
+    "longitude": 127.04226573399961,
+    "phone": "",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/534862116",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:38:19"
+  },
+  {
+    "kakao_id": "26874242",
+    "name": "더체어",
+    "address": "서울 강남구 도곡동 452-2",
+    "road_address": "서울 강남구 논현로26길 30-6",
+    "latitude": 37.4828207272744,
+    "longitude": 127.044981270604,
+    "phone": "02-576-2286",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/26874242",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:39:33"
+  },
+  {
+    "kakao_id": "1937691860",
+    "name": "카페413프로젝트 역삼점",
+    "address": "서울 강남구 역삼동 640-9",
+    "road_address": "서울 강남구 논현로97길 19-11",
+    "latitude": 37.502354493617034,
+    "longitude": 127.03447079843853,
+    "phone": "070-7798-0544",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/1937691860",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:40:46"
+  },
+  {
+    "kakao_id": "164341515",
+    "name": "차백도 강남한티점",
+    "address": "서울 강남구 대치동 921-5",
+    "road_address": "서울 강남구 선릉로 328",
+    "latitude": 37.498906295905485,
+    "longitude": 127.05186214209746,
+    "phone": "02-563-1007",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/164341515",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:42:00"
+  },
+  {
+    "kakao_id": "14600986",
+    "name": "레이브릭스",
+    "address": "서울 강남구 신사동 555-13",
+    "road_address": "서울 강남구 논현로153길 46",
+    "latitude": 37.520517638857065,
+    "longitude": 127.02443857005188,
+    "phone": "",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/14600986",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:43:14"
+  },
+  {
+    "kakao_id": "22837049",
+    "name": "알베르",
+    "address": "서울 강남구 역삼동 618-11",
+    "road_address": "서울 강남구 강남대로102길 34",
+    "latitude": 37.50305626160175,
+    "longitude": 127.02810278517197,
+    "phone": "02-566-6181",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/22837049",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:44:28"
+  },
+  {
+    "kakao_id": "1793439352",
+    "name": "아토커피 역삼점",
+    "address": "서울 강남구 역삼동 672-4",
+    "road_address": "서울 강남구 테헤란로33길 34",
+    "latitude": 37.5039966112702,
+    "longitude": 127.038720556732,
+    "phone": "070-8810-2666",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/1793439352",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:45:42"
+  },
+  {
+    "kakao_id": "1279938028",
+    "name": "라오상하이 찻집 논현점",
+    "address": "서울 강남구 논현동 209-5",
+    "road_address": "서울 강남구 학동로38길 6",
+    "latitude": 37.5145577509229,
+    "longitude": 127.034304480806,
+    "phone": "02-511-5473",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/1279938028",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:46:55"
+  },
+  {
+    "kakao_id": "1551717206",
+    "name": "엑스케이프 강남점",
+    "address": "서울 강남구 역삼동 809-6",
+    "road_address": "서울 강남구 봉은사로2길 16",
+    "latitude": 37.50355057000109,
+    "longitude": 127.02565333332531,
+    "phone": "02-555-9366",
+    "category": "음식점 > 카페 > 테마카페",
+    "place_url": "http://place.map.kakao.com/1551717206",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:48:10"
+  },
+  {
+    "kakao_id": "26395435",
+    "name": "스타벅스 신사역점",
+    "address": "서울 강남구 논현동 1-3",
+    "road_address": "서울 강남구 도산대로 108",
+    "latitude": 37.51622596162784,
+    "longitude": 127.0207677490634,
+    "phone": "1522-3232",
+    "category": "음식점 > 카페 > 커피전문점 > 스타벅스",
+    "place_url": "http://place.map.kakao.com/26395435",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 11:49:24"
+  },
+  {
+    "kakao_id": "1106428073",
+    "name": "정월",
+    "address": "서울 강남구 역삼동 618-21",
+    "road_address": "서울 강남구 강남대로102길 46",
+    "latitude": 37.5036607105687,
+    "longitude": 127.028626642226,
+    "phone": "02-6013-0926",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/1106428073",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 35,
+      "lighting": 45,
+      "comfort": 50,
+      "crowdedness": 45,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블",
+        "테라스석"
+      ],
+      "vibe_keywords": [
+        "젠",
+        "일본풍",
+        "정원",
+        "모던",
+        "감성",
+        "차분한"
+      ],
+      "recommended_for": [
+        "카페투어",
+        "애견동반",
+        "조용한 곳 선호",
+        "휴식",
+        "데이트"
+      ],
+      "keywords": [
+        "커피",
+        "애견동반",
+        "젠스타일",
+        "감성",
+        "신논현",
+        "강남"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 13:03:51"
+  },
+  {
+    "kakao_id": "973394504",
+    "name": "우디집 도산점",
+    "address": "서울 강남구 신사동 644-22",
+    "road_address": "서울 강남구 압구정로46길 32",
+    "latitude": 37.5265459920532,
+    "longitude": 127.035997864477,
+    "phone": "070-7728-3306",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/973394504",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 30,
+      "lighting": 50,
+      "comfort": 80,
+      "crowdedness": 40,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "우디",
+        "편안함",
+        "감성"
+      ],
+      "recommended_for": [
+        "카페투어",
+        "혼카",
+        "반려동물 동반",
+        "조용한 시간"
+      ],
+      "keywords": [
+        "커피",
+        "디저트"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 13:04:40"
+  },
+  {
+    "kakao_id": "58119466",
+    "name": "콩카페 강남구청역점",
+    "address": "서울 강남구 논현동 118-4",
+    "road_address": "서울 강남구 선릉로131길 11",
+    "latitude": 37.5174004802721,
+    "longitude": 127.039845066172,
+    "phone": "0507-1468-0716",
+    "category": "음식점 > 카페",
+    "place_url": "http://place.map.kakao.com/58119466",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 13:05:54"
+  },
+  {
+    "kakao_id": "1535299950",
+    "name": "공차 강남본점",
+    "address": "서울 강남구 역삼동 649-10",
+    "road_address": "서울 강남구 테헤란로 115",
+    "latitude": 37.4989589376547,
+    "longitude": 127.02993440684,
+    "phone": "02-558-3390",
+    "category": "음식점 > 카페 > 공차",
+    "place_url": "http://place.map.kakao.com/1535299950",
+    "district": "강남구",
+    "sensory_analysis": {
+      "acidity": 3.0,
+      "body": 3.0,
+      "sweetness": 3.0,
+      "bitterness": 3.0,
+      "aroma": 3.0,
+      "noise_level": 50,
+      "lighting": 60,
+      "comfort": 60,
+      "crowdedness": 50,
+      "music_genre": "없음",
+      "has_wifi": true,
+      "has_concent": true,
+      "has_parking": false,
+      "seat_types": [
+        "테이블"
+      ],
+      "vibe_keywords": [
+        "모던",
+        "심플"
+      ],
+      "recommended_for": [
+        "카페투어"
+      ],
+      "keywords": [
+        "커피",
+        "카페"
+      ]
+    },
+    "review_source": "naver_blog",
+    "analyzed_at": "2026-02-24 13:07:08"
+  }
+]

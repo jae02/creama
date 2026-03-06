@@ -1,28 +1,65 @@
 version: '3.8'
 
 services:
+  # ── 데이터베이스 ──
   mariadb:
     image: mariadb:latest
     container_name: creama_mariadb
     environment:
-      MYSQL_ROOT_PASSWORD: root
+      MYSQL_ROOT_PASSWORD: skymp159
       MYSQL_DATABASE: creama_db
-      MYSQL_USER: creama_user
-      MYSQL_PASSWORD: creama_pass
     ports:
-      - "3306:3306"
+      - "3307:3306"
     volumes:
       - mariadb_data:/var/lib/mysql
     networks:
       - creama_network
     healthcheck:
-      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-uroot", "-proot"]
+      test: [ "CMD", "healthcheck.sh", "--connect", "--innodb_initialized" ]
       interval: 10s
       timeout: 5s
       retries: 5
+      start_period: 30s
+
+  # ── 백엔드 (Spring Boot) ──
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: creama_backend
+    ports:
+      - "8081:8081"
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mariadb://mariadb:3306/creama_db?allowPublicKeyRetrieval=true
+      SPRING_DATASOURCE_USERNAME: root
+      SPRING_DATASOURCE_PASSWORD: skymp159
+    depends_on:
+      mariadb:
+        condition: service_healthy
+    networks:
+      - creama_network
+    volumes:
+      - uploads_data:/app/uploads
+    restart: on-failure
+
+  # ── 프론트엔드 (Vue + Nginx) ──
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: creama_frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    networks:
+      - creama_network
+    restart: on-failure
 
 volumes:
   mariadb_data:
+    driver: local
+  uploads_data:
     driver: local
 
 networks:
